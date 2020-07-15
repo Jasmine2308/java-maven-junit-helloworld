@@ -19,12 +19,12 @@
 <repository>     
 <id>deployment</id>     
 <name>Internal Releases</name>     
-<url>http://34.232.18.17:8081/repository/devops-maven/</url>  
+<url>http://34.232.18.17:8081/service/rest/repository/browse/devops-maven/</url>  
 </repository>  
 <snapshotRepository>     
 <id>deployment</id>     
 <name>Internal Releases</name>     
-<url>http://34.232.18.17:8081/repository/devops-maven/</url>  
+<url>http://34.232.18.17:8081/service/rest/repository/browse/devops-maven/</url>  
 </snapshotRepository>
 </distributionManagement>
 
