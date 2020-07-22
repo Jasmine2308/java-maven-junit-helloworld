@@ -15,6 +15,13 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
+  <repositories>
+    <repository>
+      <id>maven-public</id>
+      <url>http://34.232.18.17:8081/repository/maven-public/</url>
+    </repository>
+  </repositories>
+
 <!--distributionManagement>
 <repository>
 <id>deployment</id>
