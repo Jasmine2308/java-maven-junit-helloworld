@@ -15,7 +15,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
-<distributionManagement>
+<!--distributionManagement>
 <repository>
 <id>deployment</id>
 <name>InternalReleases</name>
@@ -26,7 +26,7 @@
 <name>InternalReleases</name>
 <url>http://34.232.18.17:8081/repository/maven-snapshots/</url>
 </snapshotRepository>
-</distributionManagement>
+</distributionManagement -->
 
   <dependencies>
     <!-- Testing dependencies specified. -->
