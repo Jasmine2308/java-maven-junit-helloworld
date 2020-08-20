@@ -36,6 +36,7 @@ public class HelloAppTest {
         // Did the program exit with the expected error code?
         PowerMockito.verifyStatic(only());
         System.exit(HelloApp.EXIT_STATUS_PARAMETER_NOT_UNDERSTOOD);
+        Assert.assertTrue(false);
     }
 
     @Test
